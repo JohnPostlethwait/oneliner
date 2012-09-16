@@ -1,23 +1,20 @@
 {
   "name": "oneliner",
   "description": "Converts a string that contains line feed characters into one that doesn't.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "strip",
     "text",
-    "trim",
-    ""
+    "trim"
   ],
-  "repositories": [
-    {
-      "type": "git",
-      "url": "git://github.com/JohnPostlethwait/oneliner.git"
-    }
-  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnPostlethwait/oneliner"
+  },
   "licenses": [
     {
-      "name": "MIT",
-      "url": "http://opensource.org/licenses/mit-license.php"
+      "type": "MIT +no-false-attribs",
+      "url": "http://github.com/isaacs/npm/raw/master/LICENSE"
     }
   ]
 }
