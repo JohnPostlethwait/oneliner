@@ -1,7 +1,7 @@
 {
   "name": "oneliner",
   "description": "Converts a string that contains line feed characters into one that doesn't.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "keywords": [
     "strip",
     "text",
